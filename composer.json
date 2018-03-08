@@ -1,0 +1,12 @@
+{
+  "name": "hongxu/DetectiveX-plugin",
+  "description": "a tool for debug online",
+  "license": "GPL v3.0",
+  "authors": [
+    {
+      "name": "hongxu",
+      "email": "cnbrucehong@gmail.com"
+    }
+  ],
+  "require": {}
+}
